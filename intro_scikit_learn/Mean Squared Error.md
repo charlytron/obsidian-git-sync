@@ -1,0 +1,1 @@
+The square of the differnces betwen the actual and predicted values. This allows us to amplify the values that are larger.

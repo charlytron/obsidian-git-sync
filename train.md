@@ -1,0 +1,1 @@
+Usually 80% of the data from the dataset we're using.

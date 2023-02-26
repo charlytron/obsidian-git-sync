@@ -1,0 +1,1 @@
+A **false negative error**, or **false negative**, is a test result which wrongly indicates that a condition does not hold. For example, when a pregnancy test indicates a woman is not pregnant, but she is, or when a person guilty of a crime is acquitted, these are false negatives. (Wikipedia)

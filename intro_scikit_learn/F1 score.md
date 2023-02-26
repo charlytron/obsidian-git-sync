@@ -1,0 +1,1 @@
+A combination of precision and recall. A perfect model achieves an F1 score of 1.0.

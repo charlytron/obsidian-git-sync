@@ -1,0 +1,9 @@
+- [[Accuracy]] 
+-  [[Precision]] 
+- [[recall]] 
+- [[F1 score]]
+- [[Confusion Matrix]]
+- [[ Classification Report]] 
+- [[ROC Curve]] 
+- [[Area Under Curve (AUC) Score]]
+- 

@@ -1,0 +1,1 @@
+is a result that indicates a given condition exists when it does not. For example, a pregnancy test which indicates a woman is pregnant when she is not, or the conviction of an innocent person. (wikipedia)

@@ -1,0 +1,1 @@
+Sometimes we need to remove irrelevant columns in our tables.

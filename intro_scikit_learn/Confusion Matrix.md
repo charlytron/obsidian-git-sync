@@ -1,0 +1,1 @@
+Splits your dataset into multiple parts and train and tests your model on each part then evaluates performance as an average.

@@ -1,0 +1,1 @@
+-   The area underneath the ROC curve. A perfect model achieves an AUC score of 1.0.

@@ -1,0 +1,1 @@
+sometimes need to be converted into #numerical_values to allow the Machine Learning model to learn. We can do this with Sklearn by importing [[OneHotEncoder]] and [[ColumnTransformer]]

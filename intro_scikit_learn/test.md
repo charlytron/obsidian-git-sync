@@ -1,0 +1,1 @@
+Usually 20% of the overall data

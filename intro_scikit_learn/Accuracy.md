@@ -1,0 +1,1 @@
+- The accuracy of the model in decimal form. It is good if all classes are balanced

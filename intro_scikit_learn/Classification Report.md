@@ -1,0 +1,1 @@
+Sklearn has a built-in function called `classification_report()` which returns some of the main classification metrics such as [[Precision]] [[recall ]]and [[f1-score]].

@@ -1,0 +1,344 @@
+{
+  "main": {
+    "id": "c7a94d2c3f326819",
+    "type": "split",
+    "children": [
+      {
+        "id": "b119a5e1bb61b5f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0f2c4a6a9f4c526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/non-numerical values.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "727107753af0de72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/imputing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e9871c5b13042f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/imputing.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "741477c038a4a777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63a27662dae50b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/dimensionality reduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec625edcef39ad5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/non-numerical values.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "456f147cc6b6c6a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/imputing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31b51a074843a3f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/R^2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8111a1965377cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/Mean Squared Error.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae44209c59239e9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/Precision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07a7370cb14ad1c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00fa80a49e9e4f85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/training.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5c0211b9aeef621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/Cross-Validation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e27a6bf88a586a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/Cross-Validation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d453a1180f425ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sklearn.metrics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6e9025e8b75c411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/fit the model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25104594d8a89911",
+    "type": "split",
+    "children": [
+      {
+        "id": "162f3f3dcb0f6ae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e394898cd6aab3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6170652404b5b164",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#regression",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d9badc4475d1b00",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61e58027ca27797a",
+    "type": "split",
+    "children": [
+      {
+        "id": "30d1fcd192ad10b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e12bea46f317b055",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "intro_scikit_learn/non-numerical values.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bcdcec6463be366",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "intro_scikit_learn/non-numerical values.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9aee60a540650c18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1744d83b804f046c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "intro_scikit_learn/non-numerical values.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6170652404b5b164",
+  "lastOpenFiles": [
+    "intro_scikit_learn/splitting data.md",
+    "Split Data.md",
+    "sklearn.metrics.md",
+    "Metric Functions.md",
+    "module.sklearn.metrics.md",
+    "intro_scikit_learn/Cross-Validation.md",
+    "intro_scikit_learn/R^2.md",
+    "intro_scikit_learn/Scoring_Parameter.md",
+    "intro_scikit_learn/recall.md",
+    "intro_scikit_learn/Precision.md"
+  ]
+}
