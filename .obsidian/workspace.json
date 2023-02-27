@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro_scikit_learn/Accuracy.md",
+                "file": "hyperparameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -237,8 +237,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intro_scikit_learn/Accuracy.md",
+                "file": "hyperparameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intro_scikit_learn/Accuracy.md",
+                "file": "hyperparameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intro_scikit_learn/Accuracy.md"
+                "file": "hyperparameters.md"
               }
             }
           }
@@ -319,10 +318,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6170652404b5b164",
+  "active": "a0f2c4a6a9f4c526",
   "lastOpenFiles": [
-    "intro_scikit_learn/Classification  Model Evaluation Metrics and Techniques.md",
+    "intro_scikit_learn/Improving a model.md",
+    "hyperparameters.md",
     "intro_scikit_learn/Accuracy.md",
+    "intro_scikit_learn/Classification  Model Evaluation Metrics and Techniques.md",
     "intro_scikit_learn/Area Under Curve (AUC) Score.md",
     "intro_scikit_learn/non-numerical values.md",
     "intro_scikit_learn/splitting data.md",

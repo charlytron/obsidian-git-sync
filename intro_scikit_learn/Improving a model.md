@@ -21,9 +21,10 @@ From a model perspective:
 		- Many small models trained at once
 
 - Could we improve the current model
+	- Could we improve the [[hyperparameters]] of this model to make it better?
 
 
 
 
 
-#baselinepredictions #baselinemodel #features #modelperspective #dataperspective #ensembleclassifier #randomforest
+#baselinepredictions #baselinemodel #features #modelperspective #dataperspective #ensembleclassifier #randomforest #hyperparameters
