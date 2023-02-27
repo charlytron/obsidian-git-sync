@@ -1,0 +1,1 @@
+Where a [[supervised learning]] method tries to predict the correct [[label]] of a given input data.

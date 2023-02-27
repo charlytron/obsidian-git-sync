@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hyperparameters.md",
+                "file": "supervised learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#classimbalanceddataset",
+                "query": "tag:#regression",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hyperparameters.md",
+                "file": "supervised learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hyperparameters.md",
+                "file": "supervised learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hyperparameters.md"
+                "file": "supervised learning.md"
               }
             }
           }
@@ -320,8 +320,12 @@
   },
   "active": "a0f2c4a6a9f4c526",
   "lastOpenFiles": [
-    "intro_scikit_learn/Improving a model.md",
+    "intro_scikit_learn/train.md",
+    "supervised learning.md",
+    "classification.md",
+    "decision tree.md",
     "hyperparameters.md",
+    "intro_scikit_learn/Improving a model.md",
     "intro_scikit_learn/Accuracy.md",
     "intro_scikit_learn/Classification  Model Evaluation Metrics and Techniques.md",
     "intro_scikit_learn/Area Under Curve (AUC) Score.md",
