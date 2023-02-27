@@ -1,1 +1,4 @@
-sometimes need to be converted into #numerical_values to allow the Machine Learning model to learn. We can do this with Sklearn by importing [[OneHotEncoder]] and [[ColumnTransformer]]
+May need to convert into numerical values to allow the Machine Learning model to learn. With Sklearn, we can import  [[OneHotEncoder]] and 
+[[ColumnTransformer]] 
+
+#numerical_values #columntransformer #onehotencoder
