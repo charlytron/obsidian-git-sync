@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro_scikit_learn/non-numerical values.md",
+                "file": "intro_scikit_learn/Accuracy.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,12 +143,8 @@
             "id": "00fa80a49e9e4f85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro_scikit_learn/training.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -179,12 +175,8 @@
             "id": "3d453a1180f425ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sklearn.metrics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -199,8 +191,7 @@
               }
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +220,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#regression",
+                "query": "tag:#classimbalanceddataset",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intro_scikit_learn/non-numerical values.md",
+                "file": "intro_scikit_learn/Accuracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intro_scikit_learn/non-numerical values.md",
+                "file": "intro_scikit_learn/Accuracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intro_scikit_learn/non-numerical values.md"
+                "file": "intro_scikit_learn/Accuracy.md"
               }
             }
           }
@@ -330,6 +321,10 @@
   },
   "active": "6170652404b5b164",
   "lastOpenFiles": [
+    "intro_scikit_learn/Classification  Model Evaluation Metrics and Techniques.md",
+    "intro_scikit_learn/Accuracy.md",
+    "intro_scikit_learn/Area Under Curve (AUC) Score.md",
+    "intro_scikit_learn/non-numerical values.md",
     "intro_scikit_learn/splitting data.md",
     "Split Data.md",
     "sklearn.metrics.md",
