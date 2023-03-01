@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hyperparameters.md",
+                "file": "labels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9dee989b7bddcb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/targets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2926a09ea1e678d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/Binary Classification Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96cc51c2833d64e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro_scikit_learn/Scikit-Learn Flowchart.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +227,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hyperparameters.md",
+                "file": "intro_scikit_learn/targets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hyperparameters.md",
+                "file": "intro_scikit_learn/targets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hyperparameters.md"
+                "file": "intro_scikit_learn/targets.md"
               }
             }
           }
@@ -318,16 +355,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0f2c4a6a9f4c526",
+  "active": "b9dee989b7bddcb1",
   "lastOpenFiles": [
-    "intro_scikit_learn/ROC Curve.md",
+    "intro_scikit_learn/fit.md",
+    "labels.md",
+    "intro_scikit_learn/targets.md",
+    "intro_scikit_learn/features.md",
+    "intro_scikit_learn/hyperparameters.md",
+    "intro_scikit_learn/feature engineering.md",
+    "intro_scikit_learn/Scikit-Learn Flowchart.md",
+    "intro_scikit_learn/Binary Classification Problem.md",
     "intro_scikit_learn/Feature Encoding.md",
-    "feature engineering.md",
+    "intro_scikit_learn/ROC Curve.md",
     "intro_scikit_learn/dimensionality reduction.md",
-    "hyperparameters.md",
     "supervised learning.md",
     "intro_scikit_learn/train.md",
-    "classification.md",
+    "intro_scikit_learn/classification.md",
     "decision tree.md",
     "intro_scikit_learn/Improving a model.md",
     "intro_scikit_learn/Accuracy.md",
@@ -339,10 +382,6 @@
     "sklearn.metrics.md",
     "Metric Functions.md",
     "module.sklearn.metrics.md",
-    "intro_scikit_learn/Cross-Validation.md",
-    "intro_scikit_learn/R^2.md",
-    "intro_scikit_learn/Scoring_Parameter.md",
-    "intro_scikit_learn/recall.md",
-    "intro_scikit_learn/Precision.md"
+    "intro_scikit_learn/Cross-Validation.md"
   ]
 }
