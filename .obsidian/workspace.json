@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "supervised learning.md",
+                "file": "hyperparameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "supervised learning.md",
+                "file": "hyperparameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "supervised learning.md",
+                "file": "hyperparameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "supervised learning.md"
+                "file": "hyperparameters.md"
               }
             }
           }
@@ -320,11 +320,15 @@
   },
   "active": "a0f2c4a6a9f4c526",
   "lastOpenFiles": [
-    "intro_scikit_learn/train.md",
+    "intro_scikit_learn/ROC Curve.md",
+    "intro_scikit_learn/Feature Encoding.md",
+    "feature engineering.md",
+    "intro_scikit_learn/dimensionality reduction.md",
+    "hyperparameters.md",
     "supervised learning.md",
+    "intro_scikit_learn/train.md",
     "classification.md",
     "decision tree.md",
-    "hyperparameters.md",
     "intro_scikit_learn/Improving a model.md",
     "intro_scikit_learn/Accuracy.md",
     "intro_scikit_learn/Classification  Model Evaluation Metrics and Techniques.md",
